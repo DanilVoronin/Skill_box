@@ -1,0 +1,6 @@
+D:\Projects\Skillbox\VS_1_4\VS_1_4\bin\Debug\VS_1_4.exe.config
+D:\Projects\Skillbox\VS_1_4\VS_1_4\bin\Debug\VS_1_4.exe
+D:\Projects\Skillbox\VS_1_4\VS_1_4\bin\Debug\VS_1_4.pdb
+D:\Projects\Skillbox\VS_1_4\VS_1_4\obj\Debug\VS_1_4.csprojAssemblyReference.cache
+D:\Projects\Skillbox\VS_1_4\VS_1_4\obj\Debug\VS_1_4.exe
+D:\Projects\Skillbox\VS_1_4\VS_1_4\obj\Debug\VS_1_4.pdb
